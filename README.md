@@ -5,7 +5,7 @@ I'm Maxime Dahirel (he/him)!
 ✨ Starting June 2021, I will be a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit - https://www.ecology.ugent.be/terec/
 
 I am an evolutionary ecologist, interested in:  
-- 🗺️ *animal dispersal*, ie. animals moving to reproduce way from their birth or previous reproduction sites: How, who, why, when?  
+- 🗺️ *animal dispersal*, i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, who, why, when?  
 - 🏙️ *urban ecology and evolution*: How organisms manage to persist in cities (or not)? How much do they have to change to do so? Can we predict it? What is the role of urban history and planning?
 
 I use lab experiments, field surveys, data science tools and the occasional simulation to answer these questions.
