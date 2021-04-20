@@ -12,7 +12,7 @@ I use lab experiments, field surveys, data science tools and the occasional simu
 
 I generally study land snails 🐌, but I've been involved in projects studying spiders 🕸️🕷️, mites, insects 🐞, plants 🍀... and snail parasites.
 
-You can find me on twitter [`@mdahirel`](twitter.com/mdahirel), and more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
+You can find me on twitter [`@mdahirel`](https://twitter.com/mdahirel), and more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
 
 <!--
 **mdahirel/mdahirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
