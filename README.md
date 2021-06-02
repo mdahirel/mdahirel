@@ -2,7 +2,7 @@
 
 I'm Maxime Dahirel (he/him)!
 
-✨ Starting June 2021, I will be a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit - https://www.ecology.ugent.be/terec/
+✨ I am a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit - https://www.ecology.ugent.be/terec/
 
 I am an evolutionary ecologist, interested in:  
 - 🗺️ *animal dispersal*, i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, who, why?  
