@@ -10,7 +10,7 @@ I am an evolutionary ecologist, interested in:
 
 I use lab experiments, field surveys, data science tools and the occasional simulation to answer these questions.
 
-I generally study land snails 🐌, but I've been involved in projects studying spiders 🕸️🕷️, mites, insects 🐞, plants 🍀... and snail parasites.
+I generally study land snails 🐌, but I've been involved in projects studying spiders 🕸️🕷️, mites, insects 🪰, plants 🍀... and snail parasites.
 
 You can find me on twitter [`@mdahirel`](https://twitter.com/mdahirel), and more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
 
