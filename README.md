@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Maxime Dahirel!
+I'm Maxime Dahirel (he/they)!
 
 I am an evolutionary ecologist, interested in:  
 - 🗺️ *animal dispersal*, i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, which individuals, why?  
