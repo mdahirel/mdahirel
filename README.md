@@ -1,8 +1,6 @@
 ### Hello 👋
 
-I'm Maxime Dahirel (he/him)!
-
-✨ I am a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit - https://www.ecology.ugent.be/terec/
+I'm Maxime Dahirel!
 
 I am an evolutionary ecologist, interested in:  
 - 🗺️ *animal dispersal*, i.e. animals moving to reproduce away from their birth or previous reproduction sites: How, which individuals, why?  
@@ -12,7 +10,9 @@ I use lab experiments, field surveys, data science tools and the occasional simu
 
 I generally study land snails 🐌, but I've been involved in projects studying spiders 🕸️🕷️, mites, insects 🪰, plants 🍀... and snail parasites.
 
-You can find me on twitter [`@mdahirel`](https://twitter.com/mdahirel), and more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
+Until recently I was a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit (https://www.ecology.ugent.be/terec/), and I am currently looking for a job.
+
+You can (for now!) find me on twitter [`@mdahirel`](https://twitter.com/mdahirel), and more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
 
 <!--
 **mdahirel/mdahirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
