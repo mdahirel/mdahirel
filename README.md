@@ -12,7 +12,7 @@ I generally study land snails 🐌, but I've been involved in projects studying 
 
 Until recently I was a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit (https://www.ecology.ugent.be/terec/), and I am currently looking for a job.
 
-You can (for now!) find me on twitter [`@mdahirel`](https://twitter.com/mdahirel), and more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
+You can find more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
 
 <!--
 **mdahirel/mdahirel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
