@@ -4,8 +4,8 @@ I'm Maxime Dahirel (he/they)!
 
 I am a quantitative ecologist, with expertise in:  
 - **behavioural ecology**, especially animal movement and dispersal
-- **urban ecology and evolution** and biodiversity in cities more generally
-
+- **urban biodiversity, ecology and evolution**
+  
 I work using a mix of (in no particular order) lab experiments, field surveys, data science tools and the occasional simulation.
 
 I have mostly been working with land snails 🐌, but I've been involved in projects studying spiders 🕸️🕷️, mites, insects 🪰, plants 🍀...
