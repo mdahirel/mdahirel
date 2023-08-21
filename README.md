@@ -10,7 +10,7 @@ I work using a mix of (in no particular order) lab experiments, field surveys, d
 
 I have mostly been working with land snails 🐌, but I've been involved in projects studying spiders 🕸️🕷️, mites, insects 🪰, plants 🍀...
 
-Until recently I was a Marie Skłodowska-Curie Fellow at Ghent University, in the Terrestrial Ecology unit (https://www.ecology.ugent.be/terec/).
+Until recently I was a Marie Skłodowska-Curie Fellow at Ghent University (Belgium), in the Terrestrial Ecology unit (https://www.ecology.ugent.be/terec/).
 
 You can find more information about my research (including a more or less up-to-date CV) at https://mdahirel.github.io/
 
