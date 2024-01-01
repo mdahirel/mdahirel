@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm Maxime Dahirel (he/they)!
+I'm Maxime Dahirel (they/he)!
 
 I am a quantitative ecologist, with expertise in:  
 - **behavioural ecology**, especially animal movement and dispersal
